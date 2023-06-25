@@ -1,0 +1,1 @@
+Authentication with using Django Rest Framework features (Token, Basic, Session-Authentication) and giving permissions. Also used DEF/signals to allow receivers that some action has taken place.
